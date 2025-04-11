@@ -14,10 +14,6 @@ ArgoCD is a declarative, GitOps continuous delivery tool for Kubernetes. To acce
    - **Creating a NodePort Service via YAML**:
      Save the following configuration to a file, e.g., `argocd-server-nodeport.yaml`:
      ```yaml
-
-
-
-
      
      apiVersion: v1
      kind: Service
